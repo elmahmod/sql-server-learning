@@ -51,44 +51,7 @@ According to the lesson, `NULL` is useful for:
 
 However, `NULL` must be handled carefully because it can affect the results of **queries and calculations**.
 
-## 5. Additional SQL Notes (SQL Server)
-
-The following examples extend the lesson with practical SQL syntax.
-
-### Find rows with missing values
-
-```sql
-SELECT *
-FROM Employees
-WHERE Salary IS NULL;
-```
-
-### Find rows with known values
-
-```sql
-SELECT *
-FROM Employees
-WHERE Salary IS NOT NULL;
-```
-
-Use **`IS NULL`** or **`IS NOT NULL`**, not `= NULL` or `<> NULL`.
-
-### NULL in calculations
-
-```sql
-SELECT Salary + 100
-FROM Employees;
-```
-
-If `Salary` is `NULL`, the result of `Salary + 100` is also `NULL`.
-
-### NULL in aggregate functions
-
-- `COUNT(*)` counts rows.
-- `COUNT(Salary)` counts only rows where `Salary` is **not `NULL`**.
-- `AVG(Salary)` ignores `NULL` salaries rather than treating them as zero.
-
-## 6. Quick Summary
+## 5. Quick Summary
 
 - `NULL` means **missing, unknown, or not applicable information**.
 - `NULL` is **not** the same as `0`, `''`, or `' '`.
