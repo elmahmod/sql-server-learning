@@ -9,4 +9,4 @@ This example illustrates a conceptual **Entity–Relationship Diagram (ERD)**
 ## Diagram Files
 
 - [LibraryERD.png](png/LibraryERD.png) — diagram preview on GitHub.
-- [Library.drawio](drawio%20extensions/Library.drawio) — editable source for [draw.io](https://app.diagrams.net/).
+- [Library.drawio](drawio%20extensions/LibraryERD.drawio) — editable source for [draw.io](https://app.diagrams.net/).
