@@ -25,6 +25,6 @@ This example illustrates a conceptual **Entity–Relationship Diagram (ERD)** fo
 ## Diagram Files
 
 - [UniversityERD.png](png/UniversityERD.png) — diagram preview on GitHub.
-- [UniversityERD.drawio](./drawio%20exetensions/UniversityERD.drawio) — editable source for [draw.io](https://app.diagrams.net/).
-- 
+- [UniversityERD.drawio](drawio%20extensions/UniversityERD.drawio) — editable source for [draw.io](https://app.diagrams.net/).
+
 Keep this Markdown file in the **same folder** as `UniversityERD.png` so the image renders on GitHub.
