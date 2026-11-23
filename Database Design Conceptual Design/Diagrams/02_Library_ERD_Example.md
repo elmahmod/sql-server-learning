@@ -4,7 +4,7 @@ This example illustrates a conceptual **Entity–Relationship Diagram (ERD)**
 
 ## ER Diagram
 
-![University ERD Diagram](png/UniversityERD.png)
+![Library ERD Diagram](png/LibraryERD.png)
 
 ## Diagram Files
 
