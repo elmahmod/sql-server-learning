@@ -4,7 +4,7 @@ This example illustrates a conceptual **Entity–Relationship Diagram (ERD)** fo
 
 ## ER Diagram
 
-[Edit University ERD](drawio%20extensions/UniversityERD.drawio)
+![University ERD Diagram](png/UniversityERD.png)
 
 ## Main Entities
 
